@@ -21,6 +21,15 @@ AI 엔지니어링 소모임은 생성형 AI 시대에 새롭게 바뀌는 실�
 
 ## 모임 기록 (Meetup History)
 
+### 2026년 모임
+
+#### 2026년 1월 - Frontier Agent
+* **날짜**: 2026년 1월 28일
+* **모임 링크**: [Meetup](https://www.meetup.com/awskrug/events/312892561/)
+* **발표내용**:
+  * Frontier Agent - 최용호
+  * 발표자료: [pdf](./docs/20260128_AWSKRUG_AIEngineering_Frontier%20Agent_YonghoChoi.pdf)
+
 ### 2025년 모임
 
 #### 2025년 9월
