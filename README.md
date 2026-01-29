@@ -27,8 +27,10 @@ AI 엔지니어링 소모임은 생성형 AI 시대에 새롭게 바뀌는 실�
 * **날짜**: 2026년 1월 28일
 * **모임 링크**: [Meetup](https://www.meetup.com/awskrug/events/312892561/)
 * **발표내용**:
-  * Frontier Agent - 최용호
-  * 발표자료: [pdf](./docs/20260128_AWSKRUG_AIEngineering_Frontier%20Agent_YonghoChoi.pdf)
+  * 프론티어 에이전트와 Kiro Autonomous Agent 알아보기 (최용호, AWS 테크에반젤리스트)
+    * 발표자료: [pdf](./docs/20260128_AWSKRUG_AIEngineering_Frontier%20Agent_YonghoChoi.pdf)
+  * AWS DevOps Agent와 Security Agent 알아보기 (신재현, 우아한형제들, AWS Hero)
+    * 발표자료: TBD
 
 ### 2025년 모임
 
